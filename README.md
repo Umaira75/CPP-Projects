@@ -1,9 +1,7 @@
 # C++ Projects
 
 
-## Projects
-
-### 1. Moon Hotel Management System
+###  Moon Hotel Management System
 
 A C++ console-based hotel management system developed to manage hotel room bookings and related activities.
 
