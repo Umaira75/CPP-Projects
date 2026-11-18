@@ -1,6 +1,5 @@
 # C++ Projects
 
-This repository contains C++ projects completed during my Software Engineering studies.
 
 ## Projects
 
