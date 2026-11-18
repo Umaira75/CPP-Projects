@@ -1,1 +1,20 @@
-Built a C++ console-based hotel management system for room booking, availability checking, receptionist login and billing. 90% completed. Used structured programming and dynamic data structures.
+# C++ Projects
+
+This repository contains C++ projects completed during my Software Engineering studies.
+
+## Projects
+
+### 1. Moon Hotel Management System
+
+A C++ console-based hotel management system developed to manage hotel room bookings and related activities.
+
+**Technologies Used:**
+- C++
+- Structured Programming
+- Dynamic Data Structures
+
+**Main Features:**
+- Receptionist login
+- Room booking
+- Room availability checking
+- Billing
